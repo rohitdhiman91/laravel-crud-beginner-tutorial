@@ -1,6 +1,6 @@
 # Laravel CRUD Beginner Tutorial
 
-This is a beginner-friendly Laravel 11 CRUD app for managing blog posts.
+This is a beginner-friendly Laravel 12 CRUD app for managing blog posts.
 
 ## Features
 - CRUD operations for posts
